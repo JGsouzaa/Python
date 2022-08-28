@@ -1,0 +1,16 @@
+alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+caesar = "XYZABCDEFGHIJKLMNOPQRSTUVW"
+alphabet_lower = alphabet.lower()
+caesar_lower = caesar.lower()
+dict_encrypted = dict(zip(alphabet_lower, caesar_lower))
+
+message = input("Message: ").lower()
+
+for element in message:
+    if element in dict_encrypted:
+        change = dict_encrypted[element]
+        message = message.replace(element, change)
+    else:
+        pass
+
+print(message)
