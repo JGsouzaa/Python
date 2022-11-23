@@ -1,0 +1,14 @@
+Files of this repository:
+
+1 - Vignère Cipher (Folder):
+  * Contains code for a Vignère Cipher Encprypting Method (https://www.youtube.com/watch?v=SkJcmCaHqS0&ab_channel=Udacity)
+  
+2 - Caesar Cipher (File):
+  * Code for Caesar Ciper Encrypting Method (https://www.youtube.com/watch?v=JtbKh_12ctg&ab_channel=NesoAcademy)
+  
+3 - Phrase_Emoji_Conversor (File):
+  * Code for a simple emoji converter, that takes a phrase and converts the words to the matched emojis
+  
+4 - Stock_sales_quantity_calculator (File):
+  * Code for a stock sales quantity calculator, that takes a input of the initial stock level, the number of months to plan and the planned sales quantity for each month,
+    then takes this info and calculates the required production based on pré-defined rules.
