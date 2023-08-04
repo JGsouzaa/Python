@@ -11,3 +11,6 @@ Files of this repository:
   
 4 - Stock_sales_quantity_calculator (File):
   * Code for a stock sales quantity calculator, that takes a input of the initial stock level, the number of months to plan and the planned sales quantity for each month, then takes this info and calculates the required production based on pré-defined rules.
+
+5 - jogo_nim (File):
+  * Code for Introdução à Ciência da Computação com Python Parte 1 Universidade de São Paulo Coursera course, has some issues to deal and it's just a quickly prototype made to pass the assignment
